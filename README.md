@@ -86,9 +86,6 @@ Small hand-worked examples will explain mathematics rather than provide experime
 ## Planned outputs
 
 - A short report connecting the literature, with selected derivations and algorithm comparisons.
-- A comparison table covering assumptions, learning objectives, computational costs, guarantees, and published evidence.
-- A presentation explaining the main developments and limitations.
-- Preparation to explain and defend the mathematical arguments during the viva.
 
 ## Prerequisites and provisional schedule
 
